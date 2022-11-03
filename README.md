@@ -20,4 +20,4 @@
 - [x] Computer System
 - [x] Database
 - [x] Network
-- [x] Opersting System
+- [x] Operating System
